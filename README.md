@@ -1,5 +1,5 @@
 # Teste Git
-Com exceção da questão prática, cada questão deve ser respondida seu próprio commit
+Com exceção da questão prática, cada questão deve ser respondida com seu próprio commit, ou seja se o teste possuir duas questões objetivas, no mínimo terá 2 commits, um para cada questão.
 
 ## Questão 1
 Uma desenvolvedora está trabalhando em um projeto cujo repositório de arquivos está em um servidor que usa o modelo descentralizado GIT. Ela não possui internet, mas deseja consolidar as modificações que fez para posteriormente enviá-las para gravação na nuvem assim que tiver conexão à rede. Para executar este versionamento, a desenvolvedora deve:
